@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "21.mergeTwoLists.C": "cpp",
+        "83.deleteDuplicates.C": "cpp",
+        "cstddef": "cpp"
+    }
+}
